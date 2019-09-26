@@ -1,0 +1,1 @@
+This project was done in collaboration by Nalin Ranjan and Sacheth Sathyanarayanan as the final (optional) project to Princeton's Advanced Linear Algebra with Applications (MAT 204) class. Check the Facial_Recognition.pdf file for details.
